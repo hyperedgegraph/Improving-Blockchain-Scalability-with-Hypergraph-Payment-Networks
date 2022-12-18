@@ -1,5 +1,5 @@
 # Improving-Blockchain-Scalability-with-Hypergraph-Payment-Networks
-This repository contains the generated transactions and the network topology used in the paper "Improving Blockchain Scalability with Hypergraph Payment Networks", submitted (anonimously) to ICBC confference.
+This repository contains the generated transactions (Lightning_2022_10k_transactions.csv) and the Lightning network topology used (LN_data_2022.zip) in the paper "Improving Blockchain Scalability with Hypergraph Payment Networks", submitted (anonimously) to ICBC confference.
 
 To this end, we make use of the LN transaction generator presented in LNTrafficSimulator (https://github.com/ferencberes/LNTrafficSimulator).  Transaction endpoints are selected accordingly with an updated merchant list for 2022. We proceed in an analogous way as described in the LNTrafficSimulator to utilise the 1ML Lightning Network Search and Analysis Engine (https://1ml.com/directory). By doing so we found 302 merchant nodes that are also present in our Lightning data. 
 
